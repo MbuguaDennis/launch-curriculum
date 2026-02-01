@@ -1,0 +1,15 @@
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\bin\Debug\net10.0\MyFirstApp.exe
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\bin\Debug\net10.0\MyFirstApp.deps.json
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\bin\Debug\net10.0\MyFirstApp.runtimeconfig.json
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\bin\Debug\net10.0\MyFirstApp.dll
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\bin\Debug\net10.0\MyFirstApp.pdb
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.AssemblyInfo.cs
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.sourcelink.json
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.dll
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\refint\MyFirstApp.dll
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.pdb
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\MyFirstApp.genruntimeconfig.cache
+C:\Users\dmbug\Desktop\launch-curriculum\module0\MyFirstApp\obj\Debug\net10.0\ref\MyFirstApp.dll
